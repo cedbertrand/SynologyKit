@@ -21,24 +21,27 @@ Table of Contents
 
 ## Features
 
-* Support QuickConnect Sign In
-* Support IP/Port Sign In
-* List Share Folders
-* List Share Files
-* Get file info
-* List Virtual Folder
-* Favorites management (list/add/delete/edit/replaceAll)
-* Get thumbnail of a file
-* Get directory size
-* Calculate file md5
-* Directory management (create/rename/list)
-* Copy move file
-* Delete file (folder)
-* Extract(compress) file
-* Background task management(list/clearFinished)
-* Download file
-* Upload file
-
+* Connection
+    * Support QuickConnect Sign In
+    * Support IP/Port Sign In
+* File Station API
+    * List Share Folders
+    * List Share Files
+    * Get file info
+    * List Virtual Folder
+    * Favorites management (list/add/delete/edit/replaceAll)
+    * Get thumbnail of a file
+    * Get directory size
+    * Calculate file md5
+    * Directory management (create/rename/list)
+    * Copy move file
+    * Delete file (folder)
+    * Extract(compress) file
+    * Background task management(list/clearFinished)
+    * Download file
+    * Upload file
+* Download Station API
+    * TODO
 
 ## Installation
 
